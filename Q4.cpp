@@ -1,6 +1,9 @@
 //4) Median of Two Sorted Arrays
 
 /*Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.*/
+
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
