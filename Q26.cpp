@@ -3,7 +3,7 @@
 The relative order of the elements should be kept the same. 
 Then return the number of unique elements in nums.*/
 
-#include<bits/stdc+.h>
+#include<bits/stdc++.h>
 using namespace std;
 class Solution {
 public:
