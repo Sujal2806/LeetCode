@@ -1,7 +1,8 @@
 //31)Next Permutation
 /*Given an array of integers nums, find the next permutation of nums.*/
 
-using namespce std;
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {

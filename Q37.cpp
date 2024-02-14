@@ -1,7 +1,9 @@
 //37)Sudoku Solver
 /*Write a program to solve a Sudoku puzzle by filling the empty cells.*/
 
+#include<bits/stdc++.h>
 using namespace std;
+
 class Solution {
 public:
     bool valid(vector<vector<char>>& b, int r, int co, char c) {

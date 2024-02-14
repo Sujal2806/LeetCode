@@ -3,6 +3,7 @@
 The order of the elements may be changed. 
 Then return the number of elements in nums which are not equal to val.*/
 
+#include<bits/stdc++.h>
 using namespace std;
 class Solution {
 public:

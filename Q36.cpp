@@ -1,6 +1,7 @@
 //36)Valid Sudoku
 /*Determine if a 9 x 9 Sudoku board is valid. */
 
+#include<bits/stdc++.h>
 using namespace std;
 class Solution {
 public:
