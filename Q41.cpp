@@ -1,6 +1,7 @@
 //41)First Missing Positive
 /*Given an unsorted integer array nums, return the smallest missing positive integer.*/
 
+#include<bits/stdc++.h>
 using namespace std;
 class Solution {
 public:
