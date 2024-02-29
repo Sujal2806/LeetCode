@@ -1,6 +1,7 @@
 //31)Next Permutation
 /*Given an array of integers nums, find the next permutation of nums.*/
 
+
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
