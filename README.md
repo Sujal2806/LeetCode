@@ -20,4 +20,8 @@ This repository contains solutions to leetcode problems in C++ language.
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Sujal2806/LeetCode/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Sujal2806/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
