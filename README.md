@@ -24,4 +24,12 @@ This repository contains solutions to leetcode problems in C++ language.
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/Sujal2806/LeetCode/tree/master/3189-find-champion-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Sujal2806/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+## String
+|  |
+| ------- |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Sujal2806/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 <!---LeetCode Topics End-->
