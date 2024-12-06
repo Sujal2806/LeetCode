@@ -7,6 +7,7 @@ This repository contains solutions to leetcode problems in C++ language.
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Sujal2806/LeetCode/tree/master/0787-sliding-puzzle) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sujal2806/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sujal2806/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sliding Window
 |  |
@@ -32,4 +33,20 @@ This repository contains solutions to leetcode problems in C++ language.
 |  |
 | ------- |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sujal2806/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sujal2806/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Binary Search
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sujal2806/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sujal2806/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Sorting
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sujal2806/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
