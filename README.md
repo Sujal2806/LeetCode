@@ -10,10 +10,12 @@ This repository contains solutions to leetcode problems in C++ language.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sujal2806/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sujal2806/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sujal2806/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Sujal2806/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sujal2806/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/Sujal2806/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sujal2806/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Breadth-First Search
 |  |
@@ -58,9 +60,22 @@ This repository contains solutions to leetcode problems in C++ language.
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sujal2806/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sujal2806/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Sujal2806/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sujal2806/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sujal2806/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Sujal2806/LeetCode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Sujal2806/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Sujal2806/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
