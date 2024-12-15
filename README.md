@@ -7,6 +7,7 @@ This repository contains solutions to leetcode problems in C++ language.
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Sujal2806/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sujal2806/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sujal2806/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sujal2806/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sujal2806/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -49,6 +50,7 @@ This repository contains solutions to leetcode problems in C++ language.
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Sujal2806/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sujal2806/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@ This repository contains solutions to leetcode problems in C++ language.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Sujal2806/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sujal2806/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sujal2806/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Sujal2806/LeetCode/tree/master/2868-continuous-subarrays) |
