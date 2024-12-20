@@ -22,6 +22,7 @@ This repository contains solutions to leetcode problems in C++ language.
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Sujal2806/LeetCode/tree/master/0787-sliding-puzzle) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sujal2806/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -81,4 +82,16 @@ This repository contains solutions to leetcode problems in C++ language.
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Sujal2806/LeetCode/tree/master/2868-continuous-subarrays) |
+## Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sujal2806/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sujal2806/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sujal2806/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
